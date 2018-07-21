@@ -1,0 +1,2 @@
+# MailApplication
+Email application
